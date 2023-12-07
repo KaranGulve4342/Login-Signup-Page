@@ -283,7 +283,7 @@ var firebaseConfig = {
       .catch((error) => {
         alert(error.message);
       });
-      window.open("https://karangulve4342.github.io/karan_hashitoutz.github.io");
+      window.open("https://karangulve4342.github.io/HahItOutz_page2/");
   }
   
   // Login function
