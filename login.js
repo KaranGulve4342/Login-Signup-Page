@@ -310,7 +310,8 @@ var firebaseConfig = {
     //     alert(error.message);
     //   });
     alert("Successfully Logged in !");
-    window.open("https://karangulve4342.github.io/karan_hashitoutz.github.io");
+    // window.open("https://karangulve4342.github.io/karan_hashitoutz.github.io");
+     window.open("https://karangulve4342.github.io/HahItOutz_page2/");
   }
   
   // Validation functions
